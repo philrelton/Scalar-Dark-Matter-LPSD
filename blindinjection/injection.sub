@@ -1,0 +1,15 @@
+universe = vanilla
+executable = ./signal_generation.py
+arguments = "--datafile $(datafile) --outdir $(outdir) --modind $(modind)"
+request_memory = 8 GB
+request_cpus = 1
+getenv = True
+requirements =
+log = dag_output/file$(jobind)_mod$(modind)/log.log
+output = dag_output/file$(jobind)_mod$(modind)/output.out
+error = dag_output/file$(jobind)_mod$(modind)/error.err
+accounting_group =
+accounting_group_user =
+notification = never
+priority = 1
+queue 
