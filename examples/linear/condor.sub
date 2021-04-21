@@ -1,0 +1,14 @@
+universe = vanilla
+executable = ./linear.sh
+request_memory = 2 GB
+request_cpus = 1
+getenv = True
+requirements =
+log = log.log
+error = err.err
+output = out.out
+accounting_group = 
+accounting_group_user = 
+notification = never
+priority = 1
+queue 
