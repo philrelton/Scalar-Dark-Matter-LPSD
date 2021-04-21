@@ -1,0 +1,14 @@
+universe = vanilla
+executable = ./parallel.sh
+arguments = "--iteration $(iteration)"
+request_memory = 16 GB
+request_cpus = 1
+getenv = True
+requirements =
+log = dag_output/run_$(iteration)/run_$(iteration).log
+error = dag_output/run_$(iteration)/run_$(iteration).err
+output = dag_output/run_$(iteration)/run_$(iteration).out
+accounting_group =
+accounting_group_user =
+notification = never
+queue 1 
