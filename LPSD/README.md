@@ -38,4 +38,3 @@ NOTE: Due to the nature of the calculation, lower frequencies take longer to cal
 ### LPSD Algorithm originally described in:
 Tröbs, M. and Heinzel, G., 2006. Improved spectrum estimation from digitized time series on a logarithmic frequency axis. Measurement, 39(2), pp.120-129.
 https://www.sciencedirect.com/science/article/pii/S026322410500117X?casa_token=WcRBlyyEABYAAAAA:TqUNIcSN2qWlFMFr1eHROqnafKYUFQq14yDCpJX6S8PE593F9P5LSSOCL4AxL90fxb3PR9gHJw
-
