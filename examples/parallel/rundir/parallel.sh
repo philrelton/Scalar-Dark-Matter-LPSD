@@ -28,7 +28,7 @@ Nfreqs_full=5098893
 
 # Declare the number of frequencies in each batch
 # If a single job is required:
-# Set i=0 and n=${full}
+# Set iter=0 and n=${full}
 batch_size=5000
 
 ../../../LPSD/lpsd-exec \
