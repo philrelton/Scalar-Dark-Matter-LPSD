@@ -2,7 +2,7 @@
 
 # Declare data file
 # Must be two column text file: Time Data
-filename=path/to/data/file/txt/format
+filename=path/to/data/file.txt
 
 # Declare number of seconds data in file
 TSlength=100
