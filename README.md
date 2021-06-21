@@ -4,6 +4,11 @@ This repository contains code as described in Vermulen et al, 2021. This include
 - Examples for how to run the LPSD algorithm
 - Code for adding dark matter signals to data for testing. This allows for blind testing
 
+## Requirements:
+The file `Scalar-Dark-Matter-LPSD.yml` contains the information required to create a working conda 
+environment for this project. The necessary packages can be installed using the command:
+`conda env create -f Scalar-Dark-Matter-LPSD.yml`
+
 ## Licensing:
 The LPSD is a modified version of the version found here https://gitlab.aei.uni-hannover.de/geoq/lpsd.
 The original version is unlicensed as such we have requested and recieved written permission from the 
