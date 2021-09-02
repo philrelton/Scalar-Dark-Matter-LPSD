@@ -53,4 +53,4 @@ https://www.sciencedirect.com/science/article/pii/S0263224108000705
 }
 ```
 
-Please feel free to use all non-LPSD code here without request. However, if you do, please cite Vermeulen et al
+Please feel free to use all non-LPSD code here without request. However, if you do, please cite Vermeulen et al.
