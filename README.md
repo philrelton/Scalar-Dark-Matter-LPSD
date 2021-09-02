@@ -12,13 +12,10 @@ environment for this project. The necessary packages can be installed using the 
 ## Licensing:
 The LPSD is a modified version of the version found here https://gitlab.aei.uni-hannover.de/geoq/lpsd.
 The original version is unlicensed as such we have requested and recieved written permission from the 
-authors to use and adapt their code.
+authors to use and adapt their code. We have also recieved permission to license our version under the
+GNU GENERAL PUBLIC LICENSE. You can find this license in the LICENSE file in this repository.
 
-We do not provide a license for this version of the code due to the significant similarities to
-the original code. However, if you have acquired permission to use the original code then you are
-welcome to use our code without further permission.
-
-If you do publish using this code, please cite both:
+If you do publish work using this code, please cite the following papers:
 - Tröbs, M. and Heinzel, G., 2006. Improved spectrum estimation from digitized time series on a logarithmic frequency axis. Measurement, 39(2), pp.120-129.
 https://www.sciencedirect.com/science/article/pii/S026322410500117X?casa_token=WcRBlyyEABYAAAAA:TqUNIcSN2qWlFMFr1eHROqnafKYUFQq14yDCpJX6S8PE593F9P5LSSOCL4AxL90fxb3PR9gHJw
 ```
@@ -33,6 +30,19 @@ https://www.sciencedirect.com/science/article/pii/S026322410500117X?casa_token=W
   publisher={Elsevier}
 }
 ```
+- Tröbs, M. and Heinzel, G., 2009. Corrigendum to “Improved spectrum estimation from digitized time series on a logarithmic frequency axis” [Measurement 39 (2006) 120–129]
+https://www.sciencedirect.com/science/article/pii/S0263224108000705
+```
+@article{trobs2009improved,
+  title={Improved spectrum estimation from digitized time series on a logarithmic frequency axis (vol 39, pg 120, 2006)},
+  author={Tr{\"o}bs, Michael and Heinzel, Gerhard},
+  journal={Measurement},
+  volume={42},
+  number={1},
+  pages={170--170},
+  year={2009}
+}
+```
 - Vermeulen et al. 2021: https://arxiv.org/pdf/2103.03783.pdf
 ```
 @article{vermeulen2021direct,
@@ -43,4 +53,4 @@ https://www.sciencedirect.com/science/article/pii/S026322410500117X?casa_token=W
 }
 ```
 
-Please feel free to use all non-LPSD code here without request. However, if you do, please cite to Vermeulen et al
+Please feel free to use all non-LPSD code here without request. However, if you do, please cite Vermeulen et al
